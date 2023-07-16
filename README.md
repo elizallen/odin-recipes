@@ -1,4 +1,4 @@
 # odin-recipes
-Project: Recipes - from The Odin Project
+Project: Recipes (The Odin Project)
 
-A website that has an index and three recipe pages. Each recipe page contains a description, an image, an unordered list of ingredients, and an ordered list of ingredients. 
+Recipe website comprised of an index page with links to three recipe pages. Each recipe includes a description, an ingredient list, a list of steps, and an adapted from section for reference. The recipes included are: Rock Formation, Rainbow, and Chocolate Cake.
